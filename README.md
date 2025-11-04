@@ -24,5 +24,5 @@ The solution found **631 safe reports** in the provided data.
 ## 🚀 How to Use
 
 ```bash
-python orange_test.py
+python main.py
 ```
